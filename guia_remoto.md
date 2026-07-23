@@ -27,3 +27,7 @@
 `git push: Para llevar tus commited changes del local a la nube`
 
 `git pull: Si realizas cambios en la nube, traelos a tu ordenador paraseguir editando actualizado`
+
+![Imagen 5](./Imagenes_evaluacion1/img5)
+
+![Imagen 6](./Imagenes_evaluacion1/img6)
