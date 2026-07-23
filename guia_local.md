@@ -8,5 +8,5 @@
 
  - ¡Inicializa con git.init, listo! [✅]
 
- ! [Imagen 1](./Documents/evaluacion_git/imagenes_evaluacion1/img1.png)
+ ![Imagen 1](./Documents/evaluacion_git/imagenes_evaluacion1/img1.png)
 
