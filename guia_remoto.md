@@ -28,6 +28,6 @@
 
 `git pull: Si realizas cambios en la nube, traelos a tu ordenador paraseguir editando actualizado`
 
-![Imagen 5](./Imagenes_evaluacion1/img5)
+![Imagen 5](./Imagenes_evaluacion1/img5.png)
 
-![Imagen 6](./Imagenes_evaluacion1/img6)
+![Imagen 6](./Imagenes_evaluacion1/img6.png)
