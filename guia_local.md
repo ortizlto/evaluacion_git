@@ -1,4 +1,4 @@
- # Paso a Paso para usar Git Bash 🧑🏼‍💻
+ # Paso a Paso para usar GitBash 🧑🏼‍💻
 
  - Revisa si tu versión está al día
 
