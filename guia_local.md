@@ -8,6 +8,7 @@
 
  - ¡Inicializa con git.init, listo! [✅]
 
- ![Imagen 1](./evaluacion_git/imagenes_evaluacion1/img1.png)
- ![Imagen 2](./Imagenes_evaluacion1/img2)
-
+ ![Imagen 1](./imagenes_evaluacion1/img1.png)
+ ![Imagen 2](./Imagenes_evaluacion1/img2.png)
+ ![Imagen 3](./imagenes_evaluacion1/img3.png)
+ ![Imagen 4](./Imagenes_evaluacion1/img4.png)
