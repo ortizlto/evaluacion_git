@@ -15,9 +15,13 @@
 `OJO: Asegurate que la rama principal sea (main), para configurarlo usa el código *git branch -m master main`
 
 ***git add**: Agregan un archivo de tu repositorio al git**
+
 ****git commit -m***: Para asegurar los cambios (Realiza comentarios detalados con el cambio realizado para que sepas cuando y qué cambió)**
+
 ***git status**: *verifica y no tengas ningun commit por realizar**
+
 ***git log**: Revisa el historial de cambios*
+
 ## RECOMENDACIÓN DE PROGRAMADOR
 
 `git push: Para llevar tus commited changes del local a la nube`
