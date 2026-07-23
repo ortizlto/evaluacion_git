@@ -9,4 +9,5 @@
  - ¡Inicializa con git.init, listo! [✅]
 
  ![Imagen 1](./evaluacion_git/imagenes_evaluacion1/img1.png)
+ ![Imagen 2](./Imagenes_evaluacion1/img2)
 
